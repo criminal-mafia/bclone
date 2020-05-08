@@ -26,15 +26,16 @@ $ cd bclone
 <br/>
 $ python2 bclone.py
 <br/>
+.........................
 Tool UserName : botol
 <br/>
 Tool Password : botol
-
+.........................
 <br/>
-
-*If You Face any Kind of problem then contact me on Facebook.
+If You Face any Kind of problem then contact me on Facebook.
 <br/>
-**https://www.facebook.com/TheMehtan
+https://www.facebook.com/TheMehtan
+.........................
 
 # JOIN OUR OFFICIAL FACEBOOK HACKERS GROUP For MORE UPDATES : https://www.facebook.com/groups/231747098048450
 
