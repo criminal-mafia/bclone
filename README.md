@@ -26,10 +26,9 @@ $ cd bclone
 <br/>
 $ python2 bclone.py
 <br/>
-
-**Tool UserName : botol
+Tool UserName : botol
 <br/>
-**Tool Password : botol
+Tool Password : botol
 
 <br/>
 
